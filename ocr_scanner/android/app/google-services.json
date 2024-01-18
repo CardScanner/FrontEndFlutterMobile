@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653946372876",
+    "project_id": "ocr-scanner-e19b4",
+    "storage_bucket": "ocr-scanner-e19b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653946372876:android:9edd40b0fedeb82eb3bf29",
+        "android_client_info": {
+          "package_name": "com.example.ocr_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD76__jAakQo64ft1fNA15voe5Fuk_VWC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
